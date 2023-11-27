@@ -5,5 +5,5 @@
 4. Скачать и установить [OpenCV 4.8.0](https://opencv.org/releases/)
 5. Добавить в переменную среды Path путь к OpenCV
 6. Скачать проект и открыть его с помощью IntelliJ IDEA Community Edition
-7. В Project Structure указать путь к OpenCV как тут ![тут](./assets/project structure.png)
+7. В Project Structure указать путь к OpenCV как тут ![тут](./assets/projectStructure.png)
 8. Запустить проект зайдя в Main.java и нажать на кнопку плэй
